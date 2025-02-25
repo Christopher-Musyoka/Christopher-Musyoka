@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Musyoka
+===========================================================================================================================================
 
-<!--
-**Christopher-Musyoka/Christopher-Musyoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer
+------------------
 
-Here are some ideas to get you started:
+I am a passionate developer who loves inspiration and aiming to become an expert in building different softwares. I enjoy solving problems thus am working hard to impact myself with more skills in order to solve the day to day problem. Am undertaking a course in programming in order to acquire skills for more languages such as Java, Javascript etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Nairobi
+* ✉️  You can contact me at [Katheochristopher@gmail.com](mailto:Katheochristopher@gmail.com)
+* 🧠  I'm learning Programming
+* 🤝  I'm open to collaborating on Projects
+
+<a href="https://www.github.com/Christopher-Musyoka" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Christopher-Musyoka?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Christopher-Musyoka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/Chris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Christopher-Musyoka"><img src="https://github-readme-stats.vercel.app/api?username=Christopher-Musyoka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Christopher-Musyoka's GitHub stats" /></a>
+
+<a href="http://www.github.com/Christopher-Musyoka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Christopher-Musyoka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Christopher-Musyoka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christopher-Musyoka&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
