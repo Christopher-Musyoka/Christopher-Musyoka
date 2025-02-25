@@ -18,10 +18,6 @@ src="https://img.shields.io/github/followers/Christopher-Musyoka?logo=github&sty
 
 <p align="left"> <a href="https://www.github.com/Christopher-Musyoka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/Chris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="https://github.com/Christopher-Musyoka">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christopher-Musyoka&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
