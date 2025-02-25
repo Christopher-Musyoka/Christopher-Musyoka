@@ -25,3 +25,7 @@ src="https://img.shields.io/github/followers/Christopher-Musyoka?logo=github&sty
 <a href="http://www.github.com/Christopher-Musyoka"><img src="https://github-readme-stats.vercel.app/api?username=Christopher-Musyoka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Christopher-Musyoka's GitHub stats" /></a>
 
 <a href="http://www.github.com/Christopher-Musyoka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Christopher-Musyoka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Christopher-Musyoka">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christopher-Musyoka&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</a>
